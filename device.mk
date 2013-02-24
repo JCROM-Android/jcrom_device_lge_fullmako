@@ -117,9 +117,6 @@ PRODUCT_PACKAGES += \
     com.android.nfc_extras
 
 PRODUCT_PACKAGES += \
-	busybox
-
-PRODUCT_PACKAGES += \
 	jctool \
 	bootsound \
 	stagefright
